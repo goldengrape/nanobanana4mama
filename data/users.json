@@ -1,0 +1,10 @@
+{
+  "demo_user": {
+    "password": "demo123",
+    "name": "演示用户"
+  },
+  "mama": {
+    "password": "mama2024",
+    "name": "妈妈"
+  }
+}
